@@ -1,0 +1,10 @@
+扑克牌类，包括一张牌类，一副牌类，以及德州扑克大小判定
+##Overview 用 Java 写的三个扑克牌类，提供洗牌、比较德州扑克大小等功能。
+具体功能在 Javadoc 里已经写的很详细了，生成 Javadoc 即可。
+*注意，生成 Javadoc 时，请确保使用这个参数 -encoding UTF-8 -charset UTF-8
+
+##How to use it 具体功能参考 Javadoc。
+*注意，生成 Javadoc 时，请确保使用这个参数 -encoding UTF-8 -charset UTF-8
+*注意，一切代码使用 UTF-8 编写，运行时请确保使用这个参数 -Dfile.encoding=UTF-8
+
+##Known BUG & Troubleshooting Poker 类中，第三种洗牌方式不一定比第二种好。
